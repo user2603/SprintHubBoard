@@ -1,0 +1,7 @@
+{
+  "task_name": "metrics-deduplicator",
+  "implementor": "kangwei_dev",
+  "triage_score": 8.4,
+  "risk_flag": "legacy-migration",
+  "delivered_on": "2026-10-29"
+}
