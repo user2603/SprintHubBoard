@@ -1,0 +1,7 @@
+{
+  "task_name": "deploy-smoke-tests",
+  "implementor": "enze-dev",
+  "triage_score": 8.1,
+  "risk_flag": "experimental",
+  "delivered_on": "2026-10-28"
+}
